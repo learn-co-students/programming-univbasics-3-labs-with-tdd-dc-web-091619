@@ -1,4 +1,4 @@
 describe "./calculator.rb" do
   it "" do 
-    first_number = ('./calculator.rb', "first_number")
+    first_number = 6
 end
